@@ -1,0 +1,28 @@
+.heading{
+    font-size: 30px;
+    margin:0px;    
+    width: 100%;
+}
+.main_content{
+    font-size: 20px;
+    width: 70%;
+    color: red;
+}
+.Footer{
+    position: fixed;
+    bottom: 0;
+    color: black;
+    background-color: gray;
+    width: 100%;
+    line-height: 3;
+
+}
+canvas{
+  border-radius: 20px;
+  border: 2px solid gray;
+  box-shadow: 5px 5px 5px black;
+  background-color: gray;
+}
+body{
+    background-color: beige;
+}
